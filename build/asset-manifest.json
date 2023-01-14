@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8cc12d59.css",
+    "main.js": "/static/js/main.b9b1e6c0.js",
+    "static/media/homeCarousal-cover-6.png": "/static/media/homeCarousal-cover-6.32c3a7c012818fe90061.png",
+    "static/media/homeCarousal-cover-5.png": "/static/media/homeCarousal-cover-5.7618e30767dea120cd0c.png",
+    "static/media/homeCarousal-cover-4.png": "/static/media/homeCarousal-cover-4.4673b497da25b718d382.png",
+    "static/media/homeCarousal-cover-7.png": "/static/media/homeCarousal-cover-7.8f8c5f152fb41e76c9d8.png",
+    "index.html": "/index.html",
+    "main.8cc12d59.css.map": "/static/css/main.8cc12d59.css.map",
+    "main.b9b1e6c0.js.map": "/static/js/main.b9b1e6c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cc12d59.css",
+    "static/js/main.b9b1e6c0.js"
+  ]
+}
